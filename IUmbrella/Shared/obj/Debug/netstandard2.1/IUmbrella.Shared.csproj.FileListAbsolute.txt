@@ -1,0 +1,8 @@
+C:\Users\gugup\source\repos\IUmbrella\IUmbrella\Shared\bin\Debug\netstandard2.1\IUmbrella.Shared.deps.json
+C:\Users\gugup\source\repos\IUmbrella\IUmbrella\Shared\bin\Debug\netstandard2.1\IUmbrella.Shared.dll
+C:\Users\gugup\source\repos\IUmbrella\IUmbrella\Shared\bin\Debug\netstandard2.1\IUmbrella.Shared.pdb
+C:\Users\gugup\source\repos\IUmbrella\IUmbrella\Shared\obj\Debug\netstandard2.1\IUmbrella.Shared.csprojAssemblyReference.cache
+C:\Users\gugup\source\repos\IUmbrella\IUmbrella\Shared\obj\Debug\netstandard2.1\IUmbrella.Shared.AssemblyInfoInputs.cache
+C:\Users\gugup\source\repos\IUmbrella\IUmbrella\Shared\obj\Debug\netstandard2.1\IUmbrella.Shared.AssemblyInfo.cs
+C:\Users\gugup\source\repos\IUmbrella\IUmbrella\Shared\obj\Debug\netstandard2.1\IUmbrella.Shared.dll
+C:\Users\gugup\source\repos\IUmbrella\IUmbrella\Shared\obj\Debug\netstandard2.1\IUmbrella.Shared.pdb
